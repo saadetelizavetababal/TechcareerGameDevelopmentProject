@@ -1,4 +1,4 @@
 # TechcareerGameDevelopmentProject
 
-![]([https://i.hizliresim.com/mfszsmu.jpg])
+![](https://i.hizliresim.com/mfszsmu.jpg)
 
